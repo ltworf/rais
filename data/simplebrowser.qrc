@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppLogoColor.png</file>
+        <file>ninja.png</file>
+    </qresource>
+</RCC>
