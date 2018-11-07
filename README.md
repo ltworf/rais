@@ -47,3 +47,11 @@ Just throttle CPU for background tabs, instead of letting them drain my
 battery.
 
 
+Remove tracking stuff from URLs
+-------------------------------
+
+Maybe this should be a generic browser extension.
+
+URLs sometimes have GET parameters used to track the sharing of
+the link itself. It would be better to recognise and strip
+them.
